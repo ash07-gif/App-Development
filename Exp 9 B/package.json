@@ -1,0 +1,15 @@
+{
+  "name": "todo_sqlite_rn",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.4",
+    "react-native-sqlite-storage": "^6.0.1"
+  }
+}
